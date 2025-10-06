@@ -1,3 +1,5 @@
+package task1_Generics_level1;
+
 public class MainNoGenericMethods {
     public static void main(String[] args) {
 

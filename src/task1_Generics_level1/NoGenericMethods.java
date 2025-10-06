@@ -1,3 +1,5 @@
+package task1_Generics_level1;
+
 public class NoGenericMethods {
 
     private Object arg1, arg2, arg3;
